@@ -49,8 +49,8 @@ const Login = () => {
 
   return (
     <div className="auth-container">
-      <div className="auth-card">
-        <div className="auth-header">
+      <div className="auth-card ">
+        <div className="auth-header ">
           <h1>Welcome Back</h1>
           <p>Please sign in to your account</p>
         </div>

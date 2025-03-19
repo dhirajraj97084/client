@@ -10,7 +10,7 @@ const Tutorials = () => {
       duration: '30 mins',
       level: 'Beginner',
       topics: ['Components', 'Props', 'State', 'Hooks'],
-      image: '/images/react-basics.jpg'
+      image: '/tutorial/rect.png'
     },
     {
       id: 2,
@@ -19,7 +19,7 @@ const Tutorials = () => {
       duration: '45 mins',
       level: 'Intermediate',
       topics: ['Closures', 'Promises', 'Async/Await', 'ES6+ Features'],
-      image: '/images/js-advanced.jpg'
+      image: '/tutorial/java.png'
     },
     {
       id: 3,
@@ -28,7 +28,7 @@ const Tutorials = () => {
       duration: '40 mins',
       level: 'Intermediate',
       topics: ['Grid Layout', 'Flexbox', 'Responsive Design', 'CSS Variables'],
-      image: '/images/css-layout.jpg'
+      image: '/tutorial/css.png'
     }
   ];
 

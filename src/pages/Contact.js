@@ -51,7 +51,7 @@ const Contact = () => {
               </div>
               <div className="ml-4">
                 <h3 className="text-lg font-medium text-gray-900 dark:text-white">Email</h3>
-                <p className="text-gray-600 dark:text-gray-300">contact@codelearn.com</p>
+                <p className="text-gray-600 dark:text-gray-300">dhirajraj9784@gmail.com</p>
               </div>
             </div>
             <div className="flex items-start">
@@ -63,7 +63,7 @@ const Contact = () => {
               </div>
               <div className="ml-4">
                 <h3 className="text-lg font-medium text-gray-900 dark:text-white">Location</h3>
-                <p className="text-gray-600 dark:text-gray-300">123 Code Street, Tech City, TC 12345</p>
+                <p className="text-gray-600 dark:text-gray-300">Prem Nagar,Dehradun,Uttarakhand</p>
               </div>
             </div>
             <div className="flex items-start">
@@ -74,7 +74,7 @@ const Contact = () => {
               </div>
               <div className="ml-4">
                 <h3 className="text-lg font-medium text-gray-900 dark:text-white">Phone</h3>
-                <p className="text-gray-600 dark:text-gray-300">+1 (555) 123-4567</p>
+                <p className="text-gray-600 dark:text-gray-300">+91 7633061405</p>
               </div>
             </div>
           </div>
@@ -94,7 +94,7 @@ const Contact = () => {
                 name="name"
                 value={formData.name}
                 onChange={handleChange}
-                className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-primary focus:ring-primary dark:bg-gray-700 dark:border-gray-600 dark:text-white sm:text-sm"
+                className="mt-1 block py-2 w-full rounded-md border-gray-300 shadow-sm focus:border-primary focus:ring-primary dark:bg-gray-700 dark:border-gray-600 dark:text-white sm:text-sm"
                 required
               />
             </div>
@@ -108,7 +108,7 @@ const Contact = () => {
                 name="email"
                 value={formData.email}
                 onChange={handleChange}
-                className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-primary focus:ring-primary dark:bg-gray-700 dark:border-gray-600 dark:text-white sm:text-sm"
+                className="mt-1 block py-2 w-full rounded-md border-gray-300 shadow-sm focus:border-primary focus:ring-primary dark:bg-gray-700 dark:border-gray-600 dark:text-white sm:text-sm"
                 required
               />
             </div>
@@ -122,7 +122,7 @@ const Contact = () => {
                 name="subject"
                 value={formData.subject}
                 onChange={handleChange}
-                className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-primary focus:ring-primary dark:bg-gray-700 dark:border-gray-600 dark:text-white sm:text-sm"
+                className="mt-1 block w-full py-2 rounded-md border-gray-300 shadow-sm focus:border-primary focus:ring-primary dark:bg-gray-700 dark:border-gray-600 dark:text-white sm:text-sm"
                 required
               />
             </div>

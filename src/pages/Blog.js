@@ -11,7 +11,7 @@ const Blog = () => {
       date: 'March 18, 2024',
       readTime: '5 min read',
       category: 'Technology',
-      image: '/images/web-dev-future.jpg'
+      image: '/blog/web2.png'
     },
     {
       id: 2,
@@ -21,7 +21,7 @@ const Blog = () => {
       date: 'March 17, 2024',
       readTime: '7 min read',
       category: 'React',
-      image: '/images/react-performance.jpg'
+      image: '/blog/reactjs.png'
     },
     {
       id: 3,
@@ -31,7 +31,7 @@ const Blog = () => {
       date: 'March 16, 2024',
       readTime: '6 min read',
       category: 'TypeScript',
-      image: '/images/typescript-guide.jpg'
+      image: '/blog/ts2.png'
     }
   ];
 
